@@ -1,0 +1,44 @@
+name: Update Releases Manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "releases/**"
+      - "scripts/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/update-releases-manifest.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - run: npm run build:manifest
+
+      - name: Commit manifest changes
+        run: |
+          if git diff --quiet -- releases.json; then
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add releases.json
+          git commit -m "Update releases manifest"
+          git push

@@ -1,0 +1,214 @@
+{
+  "generatedAt": "2026-03-28T09:10:11.214Z",
+  "releases": [
+    {
+      "id": "20240126",
+      "slug": "20240126",
+      "date": "2024-01-26",
+      "year": "2024",
+      "audioPath": "releases/2024/01/20240126.mp3",
+      "downloadPath": "releases/2024/01/20240126.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2024/01/20240126.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2024/01/20240126.zip",
+      "durationSeconds": 287
+    },
+    {
+      "id": "20240125",
+      "slug": "20240125",
+      "date": "2024-01-25",
+      "year": "2024",
+      "audioPath": "releases/2024/01/20240125.mp3",
+      "downloadPath": "releases/2024/01/20240125.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2024/01/20240125.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2024/01/20240125.zip",
+      "durationSeconds": 170
+    },
+    {
+      "id": "20240118",
+      "slug": "20240118",
+      "date": "2024-01-18",
+      "year": "2024",
+      "audioPath": "releases/2024/01/20240118.mp3",
+      "downloadPath": "releases/2024/01/20240118.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2024/01/20240118.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2024/01/20240118.zip",
+      "durationSeconds": 205
+    },
+    {
+      "id": "20231231",
+      "slug": "20231231",
+      "date": "2023-12-31",
+      "year": "2023",
+      "audioPath": "releases/2023/12/20231231.mp3",
+      "downloadPath": "releases/2023/12/20231231.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231231.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231231.zip",
+      "durationSeconds": 139
+    },
+    {
+      "id": "20231230",
+      "slug": "20231230",
+      "date": "2023-12-30",
+      "year": "2023",
+      "audioPath": "releases/2023/12/20231230.mp3",
+      "downloadPath": "releases/2023/12/20231230.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231230.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231230.zip",
+      "durationSeconds": 131
+    },
+    {
+      "id": "20231225",
+      "slug": "20231225",
+      "date": "2023-12-25",
+      "year": "2023",
+      "audioPath": "releases/2023/12/20231225.mp3",
+      "downloadPath": "releases/2023/12/20231225.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231225.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231225.zip",
+      "durationSeconds": 135
+    },
+    {
+      "id": "20231211",
+      "slug": "20231211",
+      "date": "2023-12-11",
+      "year": "2023",
+      "audioPath": "releases/2023/12/20231211.mp3",
+      "downloadPath": "releases/2023/12/20231211.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231211.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/12/20231211.zip",
+      "durationSeconds": 223
+    },
+    {
+      "id": "20231124",
+      "slug": "20231124",
+      "date": "2023-11-24",
+      "year": "2023",
+      "audioPath": "releases/2023/11/20231124.mp3",
+      "downloadPath": "releases/2023/11/20231124.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/11/20231124.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/11/20231124.zip",
+      "durationSeconds": 138
+    },
+    {
+      "id": "20231122",
+      "slug": "20231122",
+      "date": "2023-11-22",
+      "year": "2023",
+      "audioPath": "releases/2023/11/20231122.mp3",
+      "downloadPath": "releases/2023/11/20231122.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/11/20231122.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/11/20231122.zip",
+      "durationSeconds": 51
+    },
+    {
+      "id": "20231121",
+      "slug": "20231121",
+      "date": "2023-11-21",
+      "year": "2023",
+      "audioPath": "releases/2023/11/20231121.mp3",
+      "downloadPath": "releases/2023/11/20231121.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/11/20231121.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/11/20231121.zip",
+      "durationSeconds": 160
+    },
+    {
+      "id": "20230607",
+      "slug": "20230607",
+      "date": "2023-06-07",
+      "year": "2023",
+      "audioPath": "releases/2023/06/20230607.mp3",
+      "downloadPath": "releases/2023/06/20230607.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/06/20230607.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2023/06/20230607.zip",
+      "durationSeconds": 150
+    },
+    {
+      "id": "20220325",
+      "slug": "20220325",
+      "date": "2022-03-25",
+      "year": "2022",
+      "audioPath": "releases/2022/03/20220325.mp3",
+      "downloadPath": "releases/2022/03/20220325.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2022/03/20220325.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2022/03/20220325.zip",
+      "durationSeconds": 117
+    },
+    {
+      "id": "20220223",
+      "slug": "20220223",
+      "date": "2022-02-23",
+      "year": "2022",
+      "audioPath": "releases/2022/02/20220223.mp3",
+      "downloadPath": "releases/2022/02/20220223.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2022/02/20220223.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2022/02/20220223.zip",
+      "durationSeconds": 242
+    },
+    {
+      "id": "20210503",
+      "slug": "20210503",
+      "date": "2021-05-03",
+      "year": "2021",
+      "audioPath": "releases/2021/05/20210503.mp3",
+      "downloadPath": "releases/2021/05/20210503.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2021/05/20210503.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2021/05/20210503.zip",
+      "durationSeconds": 274
+    },
+    {
+      "id": "20210321",
+      "slug": "20210321",
+      "date": "2021-03-21",
+      "year": "2021",
+      "audioPath": "releases/2021/03/20210321.mp3",
+      "downloadPath": "releases/2021/03/20210321.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2021/03/20210321.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2021/03/20210321.zip",
+      "durationSeconds": 246
+    },
+    {
+      "id": "20190318",
+      "slug": "20190318",
+      "date": "2019-03-18",
+      "year": "2019",
+      "audioPath": "releases/2019/03/20190318.mp3",
+      "downloadPath": "releases/2019/03/20190318.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2019/03/20190318.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2019/03/20190318.zip",
+      "durationSeconds": 301
+    },
+    {
+      "id": "20190314",
+      "slug": "20190314",
+      "date": "2019-03-14",
+      "year": "2019",
+      "audioPath": "releases/2019/03/20190314.mp3",
+      "downloadPath": "releases/2019/03/20190314.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2019/03/20190314.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2019/03/20190314.zip",
+      "durationSeconds": 156
+    },
+    {
+      "id": "20190307",
+      "slug": "20190307",
+      "date": "2019-03-07",
+      "year": "2019",
+      "audioPath": "releases/2019/03/20190307.mp3",
+      "downloadPath": "releases/2019/03/20190307.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2019/03/20190307.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2019/03/20190307.zip",
+      "durationSeconds": 120
+    },
+    {
+      "id": "20140214",
+      "slug": "20140214",
+      "date": "2014-02-14",
+      "year": "2014",
+      "audioPath": "releases/2014/02/20140214.mp3",
+      "downloadPath": "releases/2014/02/20140214.zip",
+      "audioUrl": "https://alexmacflai.github.io/openbars-assets/releases/2014/02/20140214.mp3",
+      "downloadUrl": "https://alexmacflai.github.io/openbars-assets/releases/2014/02/20140214.zip",
+      "durationSeconds": 112
+    }
+  ]
+}

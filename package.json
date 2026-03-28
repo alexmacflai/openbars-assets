@@ -1,0 +1,11 @@
+{
+  "name": "openbars-assets",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:manifest": "node scripts/generate-releases-manifest.mjs"
+  },
+  "dependencies": {
+    "music-metadata": "^11.9.0"
+  }
+}
